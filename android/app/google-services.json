@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "323849334771",
+    "project_id": "amica-ee087",
+    "storage_bucket": "amica-ee087.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323849334771:android:021f2eb36e277ef3356c86",
+        "android_client_info": {
+          "package_name": "com.jaspertech.amica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323849334771-cektegng2mtiqmap3ut2knbj6bb9f53e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAiakPZYAqGKv9utpY-xUNWkX-t_Hdwi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323849334771-cektegng2mtiqmap3ut2knbj6bb9f53e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323849334771-o8hvvnl27k7c2hnl9e6eui9ulo3d96ul.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jaspertech.amica"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323849334771:android:ef04421a129d35a5356c86",
+        "android_client_info": {
+          "package_name": "com.jaspertech.fitmom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323849334771-cektegng2mtiqmap3ut2knbj6bb9f53e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAiakPZYAqGKv9utpY-xUNWkX-t_Hdwi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323849334771-cektegng2mtiqmap3ut2knbj6bb9f53e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323849334771-o8hvvnl27k7c2hnl9e6eui9ulo3d96ul.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jaspertech.amica"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
